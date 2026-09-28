@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables / API keys
+.env
+
+# Google OAuth credentials and tokens
+credentials.json
+web_credentials.json
+token.json
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local logs
+*.log

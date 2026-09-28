@@ -1,0 +1,6 @@
+streamlit[auth]
+pandas
+python-dotenv
+google-api-python-client
+google-auth
+typesafe-sdk
